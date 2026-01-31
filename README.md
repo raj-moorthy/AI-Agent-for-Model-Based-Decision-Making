@@ -4,7 +4,9 @@ An AI agent understands your request and automatically runs the ML model for you
 🛠 Requirements
 
 1.Python 3.10+
+
 2.Git
+
 3.Groq API Key
 
 📥 Setup (From Scratch)
